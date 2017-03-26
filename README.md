@@ -2,7 +2,7 @@
 first repository
 
 # Hi all 
-# it is my first repository
-# create at 03.26.17
+it is my first repository
+create at 03.26.17
 
-# by blax 2017
+by blax 2017
